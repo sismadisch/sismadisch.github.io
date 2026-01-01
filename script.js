@@ -10,13 +10,13 @@ setPage:function(arr){
 home:`
 <div class="row striped-bg-both" id="page3">
 
-<div class="col-2-3 artikel"><span class="judul2">Free Enterprise Resource Planning </span><br>
-Gratis Program CMS, LMS, Presensi dan Akuntansi <br>
+<div class="col-2-3 artikel"><span class="judul2">Web Development </span><br>
+Web Desian, Web Programming, Mobile Programming <br>
 <a href="#">download</a>
 </div>
 
 <div class="col-1-3 artikel">
-<i style="max-width:300px;" class="kanan img"> ${svg.icon('piawai')}</i>
+<i style="max-width:300px;" class="kanan img"> ${svg.icon('sbd')}</i>
 </div>
 
 </div>
@@ -395,3 +395,4 @@ Message *
 //     nav.classList.remove('active');
 //   });
 // });
+
