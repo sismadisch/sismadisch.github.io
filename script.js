@@ -10,7 +10,7 @@ setPage:function(arr){
 home:`
 <div class="row striped-bg-both" id="page3">
 
-<div class="col-2-3 artikel"><span class="judul2">Web Development </span><br>
+<div class="col-2-3 artikel"><span class="judul2">Web Development Courses</span><br>
 Web Desian, Web Programming, Mobile Programming <br>
 <a href="#">download</a>
 </div>
@@ -395,4 +395,5 @@ Message *
 //     nav.classList.remove('active');
 //   });
 // });
+
 
