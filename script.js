@@ -24,7 +24,7 @@ Web Desian, Web Programming, Mobile Programming <br>
 <div class="row gading" >
 <div class="col-1-3 artikel" >
 <i class="simg">${svg.icon('save')} </i>
-<span class="judul">Free</span><br>Sistem Informasi Akademik Sekolah bisa diunduh dan digunakan.
+<span class="judul">Desain Web</span><br>Silabus.
 Maksimal produk yang bisa disimpan adalah 1000 item <br>
 + Live Demo <br>
 + download<br>
@@ -32,12 +32,14 @@ Maksimal produk yang bisa disimpan adalah 1000 item <br>
 + Download without Webserver</div>
 <div class="col-1-3 artikel" >
 <i class="simg">${svg.icon('person')}  </i>
-<span class="judul">Unlimited</span> <br>
+
+<span class="judul">Pemrograman Web</span> <br>
 Harga Mulai 100.000, Program Komputer siap pakai, tersedia Aplikasi Inventory, Aplikasi Penjualan, Aplikasi Keuangan dan Aplikasi Dagang. <br>
 + Order </div>
 <div class="col-1-3 artikel" >
 <i class="simg"> ${svg.icon('setting')}</i>
-<span class="judul">Customize</span> <br>
+
+<span class="judul">Pemrograman Mobil</span> <br>
 Harga Mulai 1.500.000, Program Komputer yang disesuaikan dengan kebutuhan anda. <br>
 + Hubungi Kami<br>
 + download <br>
@@ -395,6 +397,7 @@ Message *
 //     nav.classList.remove('active');
 //   });
 // });
+
 
 
 
