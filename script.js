@@ -54,7 +54,7 @@ Kami siap membantu membuat program yang disesuaikan dengan kebutuhan usaha anda.
 
 <div class="col-2-3 artikel" id="page4-2">
 
-<span class="judul">Selamat Datang di Piawai</span><br>
+<span class="judul">Selamat Datang di Sismadi Akademi</span><br>
 Sistem Informasi Akademik Sekolah. <hr>
 Program stokbarang adalah aplikasi database untuk distributor yang memiliki banyak supplier dan customer, dengan harga barang yang bervariasi,
 harga sebuah barang yang sama dapat berbeda harganya bergantung pada kesepakatan harga.<br>
@@ -395,5 +395,6 @@ Message *
 //     nav.classList.remove('active');
 //   });
 // });
+
 
 
